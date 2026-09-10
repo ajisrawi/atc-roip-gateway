@@ -1,0 +1,40 @@
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Ahmad Jisrawi (eng.ahmad@gmail.com)
+
+All rights reserved.
+
+This repository — including but not limited to its hardware designs
+(schematics, PCB layouts, Gerber files, bills of materials), firmware and
+software source code, scripts, documentation, and generated artifacts
+(collectively, "the Work") — is the proprietary property of the copyright
+holder.
+
+NO LICENSE IS GRANTED. This is not open-source software or open hardware.
+
+Without the prior written permission of the copyright holder, you may NOT:
+
+  1. Copy, reproduce, or redistribute the Work or any part of it;
+  2. Modify, adapt, translate, or create derivative works of the Work;
+  3. Manufacture, assemble, sell, or distribute hardware based on the
+     designs contained in the Work;
+  4. Use the firmware, software, or scripts contained in the Work, in
+     whole or in part, in any product or project;
+  5. Sublicense, rent, lease, or lend the Work.
+
+Viewing the contents of this repository as published does not grant any
+rights beyond those unavoidable technical copies made by your browser or
+version-control tooling.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE USE OF OR INABILITY TO USE THE WORK.
+
+SAFETY NOTICE: The Work describes prototype/experimental avionics-related
+equipment. It is not a certified aviation article (no TSO authorization,
+no DO-160/DO-178C/DO-254 compliance) and must not be used in safety-of-
+flight applications.
+
+For licensing inquiries, contact: eng.ahmad@gmail.com

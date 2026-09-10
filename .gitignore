@@ -1,0 +1,34 @@
+# third-party binaries (downloaded tools, not part of the work)
+tools/*.jar
+
+# python
+__pycache__/
+*.pyc
+
+# KiCad backups / caches / session files
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+*-bak
+
+# scratch / logs
+pass3.log
+tools/tmp.txt
+tools/_doc_tail.py
+hardware/atc-roip-gateway/erc.rpt
+hardware/atc-roip-gateway/erc-warn.rpt
+hardware/atc-roip-gateway/pass3.log
+
+# intermediate routing files (reproducible)
+hardware/atc-roip-gateway/*.dsn
+hardware/atc-roip-gateway/*.ses
+hardware/atc-roip-gateway/_design-doc-body.pdf
+
+# firmware build
+firmware/build/
+firmware/third_party/
+
+# KiCad local history (nested repo)
+hardware/atc-roip-gateway/.history/
