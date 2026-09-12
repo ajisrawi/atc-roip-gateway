@@ -32,3 +32,6 @@ firmware/third_party/
 
 # KiCad local history (nested repo)
 hardware/atc-roip-gateway/.history/
+
+# separate project / repository
+DroneMagNav/
